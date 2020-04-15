@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://www.ptnt7.aspp.pl/rss.xml">
+  <channel>
+    <title>PTNT - oficjalny serwis Polskiego Towarzystwa Nadciśnienia Tętniczego</title>
+    <link>http://www.ptnt7.aspp.pl/rss.xml</link>
+    <description/>
+    <language>pl</language>
+    
+    <item>
+  <title>Temat miesiąca - Maj2019</title>
+  <link>http://www.ptnt7.aspp.pl/node/10608</link>
+  <description>&lt;span property="schema:name"&gt;Temat miesiąca - Maj2019&lt;/span&gt;
+&lt;span rel="schema:author"&gt;&lt;span lang="" about="http://www.ptnt7.aspp.pl/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-05-23T11:20:28+00:00"&gt;czw., 05/23/2019 - 13:20&lt;/span&gt;
+</description>
+  <pubDate>Thu, 23 May 2019 11:20:28 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10608 at http://www.ptnt7.aspp.pl</guid>
+    <comments>http://www.ptnt7.aspp.pl/node/10608#comments</comments>
+    </item>
+<item>
+  <title>Zapraszamy do prenumeraty naszych czasopism</title>
+  <link>http://www.ptnt7.aspp.pl/node/10606</link>
+  <description>&lt;div data-history-node-id="10606" class="row bs-2col node node--type-czasopisma node--view-mode-rss"&gt;
+  
+
+    &lt;div class="col-sm-6 bs-region bs-region--left"&gt;
+    
+  &lt;/div&gt;
+  
+    &lt;div class="col-sm-6 bs-region bs-region--right"&gt;
+    
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;h2 class="tiny"&gt;Zapraszamy do &lt;span class="pogrubienie"&gt;&lt;span class="yellow_t"&gt;prenumeraty&lt;/span&gt;&lt;/span&gt; naszych czasopism&lt;/h2&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;span class="pogrubienie"&gt;Polskie Towarzystwo Nadciśnienia Tętniczego&lt;/span&gt; wydaje trzy czasopisma o charakterze naukowym i edukacyjnym&lt;/p&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-dynamic-token-fieldnode-link-do-www field--type-ds field--label-hidden field--item"&gt;&lt;p&gt;&lt;a class="btn-border border_radius see-details" href="" target="blank"&gt;Sprawdź szczegóły »&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+</description>
+  <pubDate>Mon, 20 May 2019 10:30:48 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10606 at http://www.ptnt7.aspp.pl</guid>
+    </item>
+<item>
+  <title>Warunki udzielania prawa do korzystania z logo Polskiego Towarzystwa Nadciśnienia Tętniczego (PTNT)</title>
+  <link>http://www.ptnt7.aspp.pl/ptnt/regulaminy/warunki_udzielania_prawa_do_korzystania_z_logo_ptnt</link>
+  <description>&lt;div data-history-node-id="10604" class="row bs-1col node node--type-dokumenty node--view-mode-rss"&gt;
+  
+  &lt;div class="col-sm-12 bs-region bs-region--main"&gt;
+    
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;Warunki udzielania prawa do korzystania z logo Polskiego Towarzystwa Nadciśnienia Tętniczego (PTNT).&lt;/p&gt;
+
+&lt;p&gt;Szczegółowe informacje w załączniku:&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-zalaczniki field--type-file field--label-above"&gt;
+    &lt;div class="field--label"&gt;Załączniki&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf icon-before"&gt;&lt;span class="file-icon"&gt;&lt;span class="icon glyphicon glyphicon-file text-primary" aria-hidden="true"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="file-link"&gt;&lt;a href="http://www.ptnt7.aspp.pl/sites/default/files/dokumenty-2019/Warunki%20udzielania%20prawa%20do%20korzystania%20z%20logo%20PTNT_03.pdf" type="application/pdf; length=112410" title="Open plik in new window" target="_blank" data-toggle="tooltip" data-placement="bottom"&gt;Warunki udzielania prawa do korzystania z logo PTNT&lt;/a&gt;&lt;/span&gt;&lt;span class="file-size"&gt;109.78 KB&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+  <pubDate>Thu, 16 May 2019 13:09:48 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10604 at http://www.ptnt7.aspp.pl</guid>
+    </item>
+<item>
+  <title>TVmed</title>
+  <link>http://www.ptnt7.aspp.pl/node/10598</link>
+  <description>&lt;span&gt;TVmed&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.ptnt7.aspp.pl/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;czw., 05/16/2019 - 12:33&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt; multimedialna platforma&lt;br /&gt;
+wiedzy medycznej&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Logo&lt;/div&gt;
+              &lt;div class="field--item"&gt;  &lt;img src="http://www.ptnt7.aspp.pl/sites/default/files/partnerzy-2019/tvmed_logotype.png" width="205" height="58" alt="" typeof="foaf:Image" class="img-responsive" /&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-strona-www field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;Link&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://www.tvmed.pl/"&gt;https://www.tvmed.pl/&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 16 May 2019 10:33:00 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10598 at http://www.ptnt7.aspp.pl</guid>
+    </item>
+<item>
+  <title>Via Medica</title>
+  <link>http://www.ptnt7.aspp.pl/node/10597</link>
+  <description>&lt;span&gt;Via Medica&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.ptnt7.aspp.pl/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;czw., 05/16/2019 - 12:12&lt;/span&gt;
+
+  &lt;div class="field field--name-field-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Logo&lt;/div&gt;
+              &lt;div class="field--item"&gt;  &lt;img src="http://www.ptnt7.aspp.pl/sites/default/files/partnerzy-2019/viamedica.png" width="124" height="124" alt="Via Medica" typeof="foaf:Image" class="img-responsive" /&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-strona-www field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;Link&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.viamedica.pl/"&gt;http://www.viamedica.pl/&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 16 May 2019 10:12:59 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10597 at http://www.ptnt7.aspp.pl</guid>
+    </item>
+<item>
+  <title>Nadciśnienie Tętnicze w Praktyce</title>
+  <link>http://www.ptnt7.aspp.pl/node/10595</link>
+  <description>&lt;div data-history-node-id="10595" class="row bs-2col node node--type-czasopisma node--view-mode-rss"&gt;
+  
+
+    &lt;div class="col-sm-6 bs-region bs-region--left"&gt;
+    
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field--item"&gt;  &lt;img src="http://www.ptnt7.aspp.pl/sites/default/files/czasopisma-2019/homepageImage_pl_PL.png" width="424" height="600" alt="Nadciśnienie Tętnicze w Praktyce" typeof="foaf:Image" class="img-responsive" /&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+  
+    &lt;div class="col-sm-6 bs-region bs-region--right"&gt;
+    
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;"&lt;strong&gt;Nadciśnienie Tętnicze w Praktyce&lt;/strong&gt;" jest półrocznikiem o charakterze edukacyjno-naukowym. Oficjalne pismo PTNT, w którym publikowane są artykuły poglądowe, oryginalne i kazuistyczne.&lt;/p&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-dynamic-token-fieldnode-link-do-www field--type-ds field--label-hidden field--item"&gt;&lt;p&gt;&lt;a class="btn-border border_radius see-details" href="https://journals.viamedica.pl/nadcisnienie_tetnicze_w_praktyce" target="blank"&gt;Sprawdź szczegóły »&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+</description>
+  <pubDate>Thu, 16 May 2019 09:47:07 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10595 at http://www.ptnt7.aspp.pl</guid>
+    </item>
+<item>
+  <title>Choroby Serca i Naczyń</title>
+  <link>http://www.ptnt7.aspp.pl/node/10594</link>
+  <description>&lt;div data-history-node-id="10594" class="row bs-2col node node--type-czasopisma node--view-mode-rss"&gt;
+  
+
+    &lt;div class="col-sm-6 bs-region bs-region--left"&gt;
+    
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field--item"&gt;  &lt;img src="http://www.ptnt7.aspp.pl/sites/default/files/czasopisma-2019/choroby_serca_i_naczyn.jpg" width="484" height="685" alt="Choroby Serca i Naczyń" typeof="foaf:Image" class="img-responsive" /&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+  
+    &lt;div class="col-sm-6 bs-region bs-region--right"&gt;
+    
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;&lt;strong&gt;"Choroby Serca i Naczyń"&lt;/strong&gt; to kwartalnik o charakterze edukacyjnym, redagowany i prowadzony przez ekspertów. Czasopismo skierowane do wszystkich lekarzy praktyków, którzy w swojej codziennej pracy zajmują się schorzeniami układu sercowo-naczyniowego. W każdym numerze publikowane są artykuły poglądowe dotyczące różnych dziedzin medycyny sercowo-naczyniowej. Ponadto są umieszczane opisy przypadków klinicznych i komentarze ekspertów w zakresie poszczególnych zagadnień chorób układu sercowo-naczyniowego.&lt;/p&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-field-rodzaj-czasp field--type-entity-reference field--label-hidden field--item"&gt;&lt;a href="http://www.ptnt7.aspp.pl/taxonomy/term/93" hreflang="pl"&gt;Czasopisma pod patronatem towarzystwa&lt;/a&gt;&lt;/div&gt;
+      
+            &lt;div class="field field--name-dynamic-token-fieldnode-link-do-www field--type-ds field--label-hidden field--item"&gt;&lt;p&gt;&lt;a class="btn-border border_radius see-details" href="https://journals.viamedica.pl/choroby_serca_i_naczyn" target="blank"&gt;Sprawdź szczegóły »&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+</description>
+  <pubDate>Thu, 16 May 2019 09:46:14 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10594 at http://www.ptnt7.aspp.pl</guid>
+    </item>
+<item>
+  <title>Arterial Hypertension</title>
+  <link>http://www.ptnt7.aspp.pl/node/10593</link>
+  <description>&lt;div data-history-node-id="10593" class="row bs-2col node node--type-czasopisma node--view-mode-rss"&gt;
+  
+
+    &lt;div class="col-sm-6 bs-region bs-region--left"&gt;
+    
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field--item"&gt;  &lt;img src="http://www.ptnt7.aspp.pl/sites/default/files/czasopisma-2019/arterial_hypertension.png" width="424" height="600" alt="Arterial Hypertension" typeof="foaf:Image" class="img-responsive" /&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+  
+    &lt;div class="col-sm-6 bs-region bs-region--right"&gt;
+    
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;&lt;b&gt;Arterial Hypertension &lt;/b&gt;stanowiące kontynuację czasopisma "Nadciśnienie Tętnicze" jest oficjalnym pismem Polskiego Towarzystwa Nadciśnienia Tętniczego. Ukazuje się od czerwca 1997 r. Czasopismo o charakterze naukowym. Na jego łamach publikowane są artykuły poglądowe, oryginalne prace kliniczne i eksperymentalne, prace kazuistyczne (opisy przypadków), listy, przeglądy piśmiennictwa, opisy projektów badawczych oraz komentarze redakcyjne.&lt;/p&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-field-rodzaj-czasp field--type-entity-reference field--label-hidden field--item"&gt;&lt;a href="http://www.ptnt7.aspp.pl/taxonomy/term/92" hreflang="pl"&gt;Czasopisma towarzystwa&lt;/a&gt;&lt;/div&gt;
+      
+            &lt;div class="field field--name-dynamic-token-fieldnode-link-do-www field--type-ds field--label-hidden field--item"&gt;&lt;p&gt;&lt;a class="btn-border border_radius see-details" href="https://journals.viamedica.pl/arterial_hypertension" target="blank"&gt;Sprawdź szczegóły »&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+</description>
+  <pubDate>Thu, 16 May 2019 09:31:50 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10593 at http://www.ptnt7.aspp.pl</guid>
+    </item>
+<item>
+  <title>Nadciśnienie Tętnicze 2019. Najnowsze zalecenia PTNT 2019 dotyczące diagnostyki i leczenia nadciśnienia tętniczego dla lekarzy praktyków</title>
+  <link>http://www.ptnt7.aspp.pl/wydarzenia/konferencje/nadcisnienie-tetnicze-2019-najnowsze-zalecenia-ptnt-2019-dotyczace</link>
+  <description>&lt;div data-history-node-id="10591" class="row bs-1col node node--type-wydarzenie node--view-mode-rss"&gt;
+  
+  &lt;div class="col-sm-12 bs-region bs-region--main"&gt;
+    &lt;div id="field-language-display"&gt;&lt;div class="form-item js-form-item form-type-item js-form-type-item form-item- js-form-item- form-group"&gt;
+      &lt;label class="control-label"&gt;Język&lt;/label&gt;
+  
+  
+  PL
+
+  
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Zdjęcia&lt;/div&gt;
+              &lt;div class="field--item"&gt;  &lt;img src="http://www.ptnt7.aspp.pl/sites/default/files/wydarzenia/konf_nt_2019_zalecenia.jpg" width="1200" height="300" alt="Nadciśnienie Tętnicze 2019" typeof="foaf:Image" class="img-responsive" /&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-strona-www field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;Strona www&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.standardynt2019.viamedica.pl/pl/00zaproszenie/index.phtml" target="_blank"&gt;http://www.standardynt2019.viamedica.pl/pl/00zaproszenie/index.phtml&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-rodzaj-wydarzenia field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Rodzaj wydarzenia&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.ptnt7.aspp.pl/rodzaj-wydarzenia/konferencje" hreflang="pl"&gt;Konferencje&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-id-vm field--type-string field--label-above"&gt;
+    &lt;div class="field--label"&gt;id_vm&lt;/div&gt;
+              &lt;div class="field--item"&gt;13644&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-termin field--type-daterange field--label-above"&gt;
+    &lt;div class="field--label"&gt;Termin&lt;/div&gt;
+              &lt;div class="field--item"&gt;24 maja - 14 czerwca 2019&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-dynamic-token-fieldnode-pozostalo- field--type-ds field--label-hidden field--item"&gt;&lt;p&gt; &lt;span class="interval"&gt;Właśnie trwa&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-miejsce field--type-string field--label-above"&gt;
+    &lt;div class="field--label"&gt;Miejsce&lt;/div&gt;
+              &lt;div class="field--item"&gt;Warszawa, Gdańsk, Kraków&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+  <pubDate>Wed, 15 May 2019 11:50:48 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10591 at http://www.ptnt7.aspp.pl</guid>
+    </item>
+<item>
+  <title>Forum Medycyny Rodzinnej — Konferencja Czasopisma Forum Medycyny Rodzinnej</title>
+  <link>http://www.ptnt7.aspp.pl/wydarzenia/konferencje/forum-medycyny-rodzinnej-konferencja-czasopisma-forum-medycyny-rodzinnej</link>
+  <description>&lt;div data-history-node-id="10590" class="row bs-1col node node--type-wydarzenie node--view-mode-rss"&gt;
+  
+  &lt;div class="col-sm-12 bs-region bs-region--main"&gt;
+    &lt;div id="field-language-display"&gt;&lt;div class="form-item js-form-item form-type-item js-form-type-item form-item- js-form-item- form-group"&gt;
+      &lt;label class="control-label"&gt;Język&lt;/label&gt;
+  
+  
+  PL
+
+  
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Zdjęcia&lt;/div&gt;
+              &lt;div class="field--item"&gt;  &lt;img src="http://www.ptnt7.aspp.pl/sites/default/files/wydarzenia/forum_medycyny_rodzinnej_konf.jpg" width="500" height="125" alt="Forum Medycyny Rodzinnej " typeof="foaf:Image" class="img-responsive" /&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-strona-www field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;Strona www&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.fmrkonf.viamedica.pl/6.2019/pl/INFORMACJE_OGOLNE__39.html" target="_blank"&gt;http://www.fmrkonf.viamedica.pl/6.2019/pl/INFORMACJE_OGOLNE__39.html&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-rodzaj-wydarzenia field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Rodzaj wydarzenia&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.ptnt7.aspp.pl/rodzaj-wydarzenia/konferencje" hreflang="pl"&gt;Konferencje&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-id-vm field--type-string field--label-above"&gt;
+    &lt;div class="field--label"&gt;id_vm&lt;/div&gt;
+              &lt;div class="field--item"&gt;13580&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-termin field--type-daterange field--label-above"&gt;
+    &lt;div class="field--label"&gt;Termin&lt;/div&gt;
+              &lt;div class="field--item"&gt;28 - 29 czerwca 2019&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-dynamic-token-fieldnode-pozostalo- field--type-ds field--label-hidden field--item"&gt;&lt;p&gt;Pozostało: &lt;span class="interval"&gt; 25 dni&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-miejsce field--type-string field--label-above"&gt;
+    &lt;div class="field--label"&gt;Miejsce&lt;/div&gt;
+              &lt;div class="field--item"&gt;Gdańsk&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+  <pubDate>Wed, 15 May 2019 11:50:48 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">10590 at http://www.ptnt7.aspp.pl</guid>
+    </item>
+
+  </channel>
+</rss>
